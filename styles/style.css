@@ -69,6 +69,7 @@
   box-shadow: 0 0 4px 2px var(--accent-color);
   background-color: var(--accent-color);
 }
+
 .header__theme-menu {
   justify-self: end;
   align-self: center;

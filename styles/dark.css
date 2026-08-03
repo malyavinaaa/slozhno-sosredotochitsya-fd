@@ -18,4 +18,8 @@
 --header-title-color: #DB00FF;
 --title-color: #000028;
 --text-color: #F1B2CE;
+
+.decorated-zone_text {
+  display: flex;
+}
 }
